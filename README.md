@@ -1,4 +1,4 @@
-# ML-Project
+#Project
 ## Explainable AI for Diabetic Retinopathy Detection with DenseNet121 and LIME
 This repository demonstrates the use of Deep Learning and Explainable AI techniques for diabetic retinopathy detection. The model is built on the DenseNet121 architecture, fine-tuned on the APTOS dataset, with Gaussian filtering applied for enhanced feature extraction.
 
