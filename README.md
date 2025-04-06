@@ -4,7 +4,7 @@ This repository demonstrates the use of Deep Learning and Explainable AI techniq
 
 Key features:
 Model Architecture: DenseNet121 with a custom classification head (Flatten, Dense(128, ReLU), Dropout(0.4), Softmax).
-Training Accuracy: Achieved 99.4% accuracy on training data and 93.07% accuracy on the test set, using 128x128 input images.
+Training Accuracy: Achieved 99.4% accuracy on training data and 93.24% accuracy on the test set, using 128x128 input images.
 Explainability: Integrated LIME (Local Interpretable Model-agnostic Explanations) to provide transparent insights into the model's predictions.
 Dataset: APTOS Diabetic Retinopathy dataset with Gaussian-filtered preprocessing for improved model performance.
 
